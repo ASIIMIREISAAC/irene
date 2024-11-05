@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+    body{
+    padding:0 ;
+    margin: 0;
+    background-color: blanchedalmond;
+    text-decoration: none;
+}
+nav{
+    color: aquamarine;
+    background-color: yellow;
+    text-decoration: none;
+    display: flex;
+}
+nav ul li {
+    text-decoration: none;
+    padding: 5px;
+    display: flex;
+}
+    nav ul li{
+        text-decoration: none;
+        color: brown;
+        display: flex;
+    }
+}
+.log{
+    font-size: 48px;
+    color: red;
+    background-color: antiquewhite;
+
+}
+.irene{
+    text-decoration: none;
+    display: flex;
+    color: blueviolet;
+    display: flex;
+}
+.par{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    margin: 0;
+    font-style: italic;
+    font-size: 100px
+}
+.fa-whatsapp{
+    font-size: 72px;
+    background-color: rgb(103, 228, 103);
+    color: white;
+    margin-right: 40px;
+}
+.fa-instagram{
+    background-color: rgb(180, 107, 180);
+    color: rgb(241, 222, 241);
+    font-size: 72px;
+}
+.foot{
+    gap: 20px;
+    text-align: center;
+}
+.fa-facebook-f{
+    font-size: 72px;
+    color: rgb(230, 230, 240);
+    background: blue;
+    border-radius: 50%;
+    margin-right: 40px;
+}
+}
